@@ -16,7 +16,7 @@ I'm currently learning a specialisation in video game development and virtual re
 
 ### Hola! Soy Jonatan Troyano.
 
-Desarrollador de aplicaciones multiplaforma y tecnico en microinformatica. Tengo 28 años y me gusta todo lo relacionado con el desarrollo de software, hardware y tecnología.
+Desarrollador de aplicaciones multiplataforma y técnico en microinformática. Tengo 28 años y me gusta todo lo relacionado con el desarrollo de software, hardware y tecnología.
 
 Tengo las siguientes titulaciones:
 
