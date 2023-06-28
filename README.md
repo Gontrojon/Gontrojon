@@ -9,7 +9,7 @@ I have the next degrees:
 - Web page development and publication.
 - Specialisation in Videogame Development and Virtual Reality.
 
-I'm currently learning a specialisation in video game development and virtual reality.
+I'm currently looking for job while I continue to improve my skills in videogame devekopment.
 
 ---
 
@@ -24,7 +24,7 @@ Tengo las siguientes titulaciones:
 - Desarrollo y publicación de páginas web.
 - Especialización en Desarrollo de videojuegos y realidad virtual.
 
-Actualmente estoy estudiando un curso de Especialización en Desarrollo de videojuegos y realidad virtual.
+Actualmente busco trabajo mientras sigo perfeccionando en la creación de videojuegos.
 
 
 <!--
