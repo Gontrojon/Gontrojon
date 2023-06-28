@@ -7,10 +7,9 @@ I have the next degrees:
 - Multi-platform application development. 
 - Microcomputer and network technology.
 - Web page development and publication.
+- Specialisation in Videogame Development and Virtual Reality.
 
 I'm currently learning a specialisation in video game development and virtual reality.
-
-*🐦 BTW my twitter acount in the profile links its (nsfw) acount.*
 
 ---
 
@@ -23,11 +22,9 @@ Tengo las siguientes titulaciones:
 - Desarrollo de aplicaciones multiplataforma.
 - Sistemas Microinformáticos y redes
 - Desarrollo y publicación de páginas web.
+- Especialización en Desarrollo de videojuegos y realidad virtual.
 
 Actualmente estoy estudiando un curso de Especialización en Desarrollo de videojuegos y realidad virtual.
-
-*🐦 Porcierto la cuenta de twitter en el link de perfil es (nsfw)*
-
 
 
 <!--
