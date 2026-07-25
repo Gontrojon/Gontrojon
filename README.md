@@ -1,6 +1,6 @@
 ### Hi! I'm Jonatan Troyano
 
-A multiplatform application developer and microcomputer tecnical. I'm currently 29 years old and liking about software development, hardware and technology.
+A multiplatform application developer and microcomputer tecnical. I'm currently 32 years old and liking about software development, hardware and technology.
 
 I have the next degrees:
 
@@ -9,13 +9,13 @@ I have the next degrees:
 - Web page development and publication.
 - Specialisation in Videogame Development and Virtual Reality.
 
-I'm currently looking for job while I continue to improve my skills in videogame devekopment.
+I am currently employed at a financial software development firm, while further honing my skills as a software developer.
 
 ---
 
 ### Hola! Soy Jonatan Troyano.
 
-Desarrollador de aplicaciones multiplataforma y técnico en microinformática. Tengo 29 años y me gusta todo lo relacionado con el desarrollo de software, hardware y tecnología.
+Desarrollador de aplicaciones multiplataforma y técnico en microinformática. Tengo 32 años y me gusta todo lo relacionado con el desarrollo de software, hardware y tecnología.
 
 Tengo las siguientes titulaciones:
 
@@ -24,7 +24,7 @@ Tengo las siguientes titulaciones:
 - Desarrollo y publicación de páginas web.
 - Especialización en Desarrollo de videojuegos y realidad virtual.
 
-Actualmente busco trabajo mientras sigo perfeccionando en la creación de videojuegos.
+Actualmente trabajo en una empresa de desarrollo de software fiscal, mientras sigo perfeccionando mis habilidades como programador.
 
 
 <!--
